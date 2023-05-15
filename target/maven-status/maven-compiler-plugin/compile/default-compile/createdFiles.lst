@@ -12,13 +12,13 @@ com\PortfolioWeb\mlm\Security\jwt\JwtProvider.class
 com\PortfolioWeb\mlm\Repository\IPersonaRepository.class
 com\PortfolioWeb\mlm\Security\jwt\JwtEntryPoint.class
 com\PortfolioWeb\mlm\Entity\Experiencia.class
+com\PortfolioWeb\mlm\Controler\cExperiencia.class
 com\PortfolioWeb\mlm\Repository\REducacion.class
 com\PortfolioWeb\mlm\Security\Repository\iUsuarioRepository.class
 com\PortfolioWeb\mlm\Security\Controller\Mensaje.class
 com\PortfolioWeb\mlm\Security\Dto\JwtDto.class
 com\PortfolioWeb\mlm\Security\Controller\AuthController.class
 com\PortfolioWeb\mlm\Security\MainSecurity.class
-com\PortfolioWeb\mlm\Controller\cExperiencia.class
 com\PortfolioWeb\mlm\Security\jwt\JwtTokenFilter.class
 com\PortfolioWeb\mlm\Controler\PersonaController.class
 com\PortfolioWeb\mlm\Dto\dtoExperiencia.class
