@@ -8,8 +8,8 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.portfolio</groupId>
-    <artifactId>mgb</artifactId>
+    <groupId>com.PortfolioWeb</groupId>
+    <artifactId>mlm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mlm.Produccion</name>
     <description>Portfolio de MGB</description>

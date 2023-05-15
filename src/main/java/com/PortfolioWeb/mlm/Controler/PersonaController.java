@@ -16,20 +16,20 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "https://frontend-2715c.web.app)")
+@CrossOrigin(origins = "https://frontend-2715c.web.app")
 public class PersonaController {
     @Autowired IPersonaService ipersonaService;
     @CrossOrigin(origins = "https://frontend-2715c.web.app")
-    @GetMapping("personas/traer")
+    @GetMapping("/personas/traer")
     public List<Persona> getPersona(){
         return ipersonaService.getPersona();
     }
     @PreAuthorize("hasRole('ADMIN')")
     @CrossOrigin(origins = "https://frontend-2715c.web.app")
-    @PostMapping("/personas/crear")
+    @PostMapping("/crear")
     public String createPersona(@RequestBody Persona persona){
-    ipersonaService.savePersona(persona);
-    return "La persona fue creado correctamente";
+    ipersonaService.save(persona);
+    return "La persona fue creada correctamente";
     }
     @PreAuthorize("hasRole('ADMIN')")
     @DeleteMapping("/personas/borrar/{id}")
