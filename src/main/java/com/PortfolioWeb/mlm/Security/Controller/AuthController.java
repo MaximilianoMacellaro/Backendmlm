@@ -48,6 +48,12 @@ public class AuthController {
     @Autowired
     JwtProvider jwtProvider;
     
+    /**
+     *
+     * @param nuevoUsuario
+     * @param bindingResult
+     * @return
+     */
     @PostMapping("/nuevo")
     public ResponseEntity<?> nuevo(@Valid @RequestBody NuevoUsuario nuevoUsuario, BindingResult bindingResult){
         if(bindingResult.hasErrors())
