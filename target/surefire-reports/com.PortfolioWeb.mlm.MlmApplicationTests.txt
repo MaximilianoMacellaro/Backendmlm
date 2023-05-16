@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.PortfolioWeb.mlm.MlmApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.435 s - in com.PortfolioWeb.mlm.MlmApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.061 s - in com.PortfolioWeb.mlm.MlmApplicationTests
