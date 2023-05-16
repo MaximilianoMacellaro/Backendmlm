@@ -8,8 +8,10 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.web.bind.annotation.CrossOrigin;
 @Getter @Setter
 @Entity
+@CrossOrigin(origins = "https://frontend-2715c.web.app")
 public class Persona {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
