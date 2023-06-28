@@ -11,7 +11,7 @@ import lombok.Setter;
 import org.springframework.web.bind.annotation.CrossOrigin;
 @Getter @Setter
 @Entity
-@CrossOrigin(origins = "https://frontend-2715c.web.app")
+@CrossOrigin(origins = {"https://frontend-2715c.web.app","https://backendmlm.onrender.com"})
 public class Persona {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
