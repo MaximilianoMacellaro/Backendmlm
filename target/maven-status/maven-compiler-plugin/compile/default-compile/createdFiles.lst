@@ -17,7 +17,6 @@ com\PortfolioWeb\mlm\Repository\REducacion.class
 com\PortfolioWeb\mlm\Security\Repository\iUsuarioRepository.class
 com\PortfolioWeb\mlm\Security\Controller\Mensaje.class
 com\PortfolioWeb\mlm\Security\Dto\JwtDto.class
-.netbeans_automatic_build
 com\PortfolioWeb\mlm\Security\Controller\AuthController.class
 com\PortfolioWeb\mlm\Security\MainSecurity.class
 com\PortfolioWeb\mlm\Security\jwt\JwtTokenFilter.class
