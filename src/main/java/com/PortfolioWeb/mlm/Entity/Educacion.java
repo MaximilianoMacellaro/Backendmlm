@@ -10,7 +10,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import org.springframework.web.bind.annotation.CrossOrigin;
-@CrossOrigin(origins = {"https://frontend-2715c.web.app","https://backendmlm.onrender.com"})
+@CrossOrigin(origins = {"https://frontend-2715c.web.app"})
 @Entity
 public class Educacion {
     @Id
