@@ -14,13 +14,13 @@ C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_Macel
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Service\UsuarioService.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Dto\dtoExperiencia.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Repository\REducacion.java
-C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Interface\IPersonaService.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Service\SExperiencia.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Repository\iUsuarioRepository.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Dto\JwtDto.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Dto\LoginUsuario.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Service\UserDetailsImpl.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Controler\cExperiencia.java
+C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Dto\dtoPersona.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Repository\IPersonaRepository.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\Dto\NuevoUsuario.java
 C:\Users\maxim_b95i8g7\OneDrive\Escritorio\Programacion\ProyectoIntegrador_MacellaroMaximilianoLeonel\Backendmlm\src\main\java\com\PortfolioWeb\mlm\Security\jwt\JwtTokenFilter.java

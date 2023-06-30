@@ -7,6 +7,7 @@ com\PortfolioWeb\mlm\Controler\CEducacion.class
 com\PortfolioWeb\mlm\Entity\Educacion.class
 com\PortfolioWeb\mlm\Security\Entity\Usuario.class
 com\PortfolioWeb\mlm\Entity\Persona.class
+com\PortfolioWeb\mlm\Dto\dtoPersona.class
 com\PortfolioWeb\mlm\Security\Dto\LoginUsuario.class
 com\PortfolioWeb\mlm\Security\jwt\JwtProvider.class
 com\PortfolioWeb\mlm\Repository\IPersonaRepository.class
@@ -25,7 +26,6 @@ com\PortfolioWeb\mlm\Dto\dtoExperiencia.class
 com\PortfolioWeb\mlm\Security\Entity\Rol.class
 com\PortfolioWeb\mlm\Security\Enums\RolNombre.class
 com\PortfolioWeb\mlm\Service\SExperiencia.class
-com\PortfolioWeb\mlm\Interface\IPersonaService.class
 com\PortfolioWeb\mlm\Security\Service\RolService.class
 com\PortfolioWeb\mlm\Service\SEducacion.class
 com\PortfolioWeb\mlm\Dto\dtoHys.class
